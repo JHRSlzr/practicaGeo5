@@ -6,7 +6,7 @@ var informacion =  "<h1>Universidad DeLaSalle Bajío</h1>"
 
             var propiedades = {
                 center: {
-                    lat: 21.1516556, lng: -101.7109258
+                    lat: 21.1516556, lng: -101.7109258 //Coordenadas DeLaSalleBajío
                 },
                 zoom: 10
             };
