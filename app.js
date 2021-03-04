@@ -8,7 +8,7 @@ var informacion =  "<h1>Universidad DeLaSalle Bajío</h1>"
                 center: {
                     lat: 21.1516556, lng: -101.7109258 //Coordenadas DeLaSalle
                 },
-                zoom: 10
+                zoom: 15
             };
 
             const mapa = document.getElementById("map")
