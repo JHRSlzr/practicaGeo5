@@ -1,12 +1,12 @@
 var informacion =  "<h1>Universidad DeLaSalle Bajío</h1>"
-            informacion += "<p><strong>Dirección:</strong> Avenida Universidad 602, Lomas del Campestre, 37150 León, Gto, México.</p>"
-            informacion += "<p><strong>Teléfono:</strong>477 710 8500</p>"
+    informacion += "<p><strong>Dirección: </strong> Avenida Universidad 602, Lomas del Campestre, 37150 León, Gto, México.</p>"
+    informacion += "<p><strong>Teléfono: </strong>477 710 8500</p>"
 
         function iniciaMapa() {
 
             var propiedades = {
                 center: {
-                    lat: 21.1516556, lng: -101.7109258 //Coordenadas DeLaSalleBajío
+                    lat: 21.1516556, lng: -101.7109258 //Coordenadas DeLaSalle
                 },
                 zoom: 10
             };
